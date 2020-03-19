@@ -1,0 +1,1 @@
+# Getting-and-cleaning-data-from-the-accelerometers-in-the-Samsung-Galaxy-S-smartphone
