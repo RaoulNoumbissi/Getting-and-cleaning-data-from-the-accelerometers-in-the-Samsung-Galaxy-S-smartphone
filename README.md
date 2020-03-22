@@ -7,6 +7,7 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 **Data Description**
 
 The experiments have been carried out with a group of 30 subjects. Each subject in the dataset performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) with a smartphone on their waist. The resulting dataset has been split into two sets: The training set contains 70% of the data, and the test set contains the other 30% of the data.
+
 **File Descrition**
   
   - run_analysis.R
