@@ -54,7 +54,8 @@ Here is a summary of the relevant files, variables and functions for this work:
 *new_smartphone_dataset* A data frame that combines the subject_train, the training set and the Activity, 
                          68 columns, 7352 rows.
 *by_Subject_by_Activity*    A data frame that contains the mean of all the variables in the 
-                         *new_smartphone_dataset* for each subject and  each activity.                     
+                         *new_smartphone_dataset* for each subject and  each activity,66 
+                          columns,180 rows                   
 **Functions**
 
 *read.table()*           Reads the data in the diffent text files and output a data frame
