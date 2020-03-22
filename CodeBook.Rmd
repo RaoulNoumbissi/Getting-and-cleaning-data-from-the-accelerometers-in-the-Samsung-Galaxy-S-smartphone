@@ -26,7 +26,7 @@ Here is a summary of the relevant files, variables and functions for this work:
 **Variables**
 
 *features*            a data frame that stores all 561 features, 2 columns, 561 rows
-**used_features**     a character vector that stores 66 features which represent either mean or std
+*used_features*     a character vector that stores 66 features which represent either mean or std
 *X_train*             a data frame variable that stores the training set, 561 columns, 7352 rows 
 *y_train*             a data frame variable that stores the training label, 1 column, 7352 rows 
 *subject_train*       a data frame variable that stores the subject train set, 1 column, 7352 rows with 
@@ -49,7 +49,7 @@ Here is a summary of the relevant files, variables and functions for this work:
                                "Sitting", "Standing,Laying".
 *smartphone_dataset*  The tidy dataset for this work. Obtained through the combination by column of 
                       *smarphone_features* and *descriptive_smartphone_label*.
-*Activity*            A factor vector that stores the activity of the users from row 1 through 7352 of the                       *smartphone_dataset*
+*Activity*            A factor vector that stores the activity of the users from row 1 through 7352 of the                                                     *smartphone_dataset*
 
 *new_smartphone_dataset* A data frame that combines the subject_train, the training set and the Activity, 
                          68 columns, 7352 rows.
